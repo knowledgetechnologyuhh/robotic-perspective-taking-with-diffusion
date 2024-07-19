@@ -1,0 +1,11 @@
+leftEye,Opposite
+./example/left_eye_rgb417.jpg,./example/opposite_rgb417.jpg
+./example/left_eye_rgb2251.jpg,./example/opposite_rgb2251.jpg
+./example/left_eye_rgb3612.jpg,./example/opposite_rgb3612.jpg
+./example/left_eye_rgb6034.jpg,./example/opposite_rgb6034.jpg
+./example/left_eye_rgb6787.jpg,./example/opposite_rgb6787.jpg
+./example/left_eye_rgb7287.jpg,./example/opposite_rgb7287.jpg
+./example/left_eye_rgb8862.jpg,./example/opposite_rgb8862.jpg
+./example/left_eye_rgb8923.jpg,./example/opposite_rgb8923.jpg
+./example/left_eye_rgb9594.jpg,./example/opposite_rgb9594.jpg
+./example/left_eye_rgb9767.jpg,./example/opposite_rgb9767.jpg
